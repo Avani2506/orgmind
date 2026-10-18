@@ -3,7 +3,7 @@
 Built for **Graph Hacks: Context for AI Agents** (WeMakeDevs x FalkorDB).
 
 - **Live demo:** Not deployed. OrgMind depends on a FalkorDB instance running alongside the app, so it runs locally with Docker (FalkorDB) and Streamlit. Complete setup steps are in the "Run it locally" section below, and the demo video shows the working project end to end.
-- **Demo video:** [PASTE VIDEO LINK HERE]
+- **Demo video:** https://www.loom.com/share/949f45c0e8d34e3cb1a168014620c447
 - **Tracks entered:** Agents That Act on Connected Data, Agent Memory and Coordination, Company Brain
 
 OrgMind answers questions about a company (who works on what, what breaks if a system goes down, why a decision was made) by walking a FalkorDB graph. The AI is not allowed to guess. It must call graph tools, and every answer shows the lookups it used. If FalkorDB is switched off, OrgMind cannot answer, which is the point: the graph is what the product runs on.
