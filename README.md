@@ -2,7 +2,7 @@
 
 Built for **Graph Hacks: Context for AI Agents** (WeMakeDevs x FalkorDB).
 
-- **Live demo:** [PASTE LIVE LINK HERE]
+- **Live demo:** Not deployed. OrgMind depends on a FalkorDB instance running alongside the app, so it runs locally with Docker (FalkorDB) and Streamlit. Complete setup steps are in the "Run it locally" section below, and the demo video shows the working project end to end.
 - **Demo video:** [PASTE VIDEO LINK HERE]
 - **Tracks entered:** Agents That Act on Connected Data, Agent Memory and Coordination, Company Brain
 
